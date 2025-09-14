@@ -1,0 +1,111 @@
+.landing-page,
+.landing-page * {
+  box-sizing: border-box;
+}
+.landing-page {
+  background: #ffffff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.sahana-nagaraja {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 64px;
+  width: 358px;
+  height: 74px;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 947px;
+  top: 68px;
+  width: 97px;
+  height: 43px;
+}
+.about {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 1056px;
+  top: 69px;
+  width: 107px;
+  height: 42px;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 1168px;
+  top: 69px;
+  width: 108px;
+  height: 42px;
+}
+.let-s-create-a-website-design {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 72px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 339px;
+  width: 1280px;
+  height: 112px;
+}
+.i-ve-worked-across-data-analytics-ai-ml-and-product-analysis-in-roles-at-edvanced-gpt-iim-bangalore-samsung-and-dell-from-building-ai-powered-education-tools-and-scalable-ml-pipelines-to-designing-dashboards-and-automating-workflows-i-ve-helped-teams-turn-data-into-insights-and-strategies-that-make-an-impact {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 469px;
+  width: 1280px;
+  height: 96px;
+}
+.rectangle {
+  background: #a8ff35;
+  width: 180px;
+  height: 57px;
+  position: absolute;
+  left: 630px;
+  top: 602px;
+}
+.sahana-nagaraja-university-of-maryland-fall-2025 {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 453px;
+  top: 937px;
+}
+.get-started {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 653px;
+  top: 617px;
+}

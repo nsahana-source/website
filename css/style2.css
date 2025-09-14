@@ -1,0 +1,92 @@
+.about,
+.about * {
+  box-sizing: border-box;
+}
+.about {
+  background: #ffffff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.sahana-nagaraja {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 64px;
+  width: 358px;
+  height: 74px;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 947px;
+  top: 68px;
+  width: 97px;
+  height: 43px;
+}
+.about2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 1056px;
+  top: 69px;
+  width: 107px;
+  height: 42px;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 1168px;
+  top: 69px;
+  width: 108px;
+  height: 42px;
+}
+.budt-748-industry-practicum {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 656px);
+  top: 175px;
+  width: 550px;
+  height: 53px;
+}
+.course-description-the-capstone-class-is-designed-as-an-industry-sponsored-practicum-project-it-has-two-main-objectives-first-the-course-provides-students-an-opportunity-to-work-on-a-real-world-project-where-they-will-work-with-a-sponsoring-firm-to-use-information-technology-to-solve-a-real-world-business-problem-to-accomplish-this-goal-the-students-will-synthesize-and-integrate-the-skills-and-knowledge-acquired-in-the-msis-program {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+  position: absolute;
+  left: 82px;
+  top: 239px;
+  width: 826px;
+  height: 555px;
+}
+.sahana-nagaraja-university-of-maryland-fall-2025 {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 453px;
+  top: 937px;
+}

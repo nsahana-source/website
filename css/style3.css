@@ -1,0 +1,99 @@
+.contact,
+.contact * {
+  box-sizing: border-box;
+}
+.contact {
+  background: #ffffff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.sahana-nagaraja {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 64px;
+  width: 358px;
+  height: 74px;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 947px;
+  top: 68px;
+  width: 97px;
+  height: 43px;
+}
+.about {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 1056px;
+  top: 69px;
+  width: 107px;
+  height: 42px;
+}
+.contact2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: absolute;
+  left: 1168px;
+  top: 69px;
+  width: 108px;
+  height: 42px;
+}
+.contact-us {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 656px);
+  top: 175px;
+  width: 550px;
+  height: 53px;
+}
+.reach-out-to-the-course-team-for-support-or-inquiries-professor-contact-details-i-paul-t-shapiro-pshapiro-umd-edu-ta-contact-details-i-abhi-gupta-agupta-09-umd-edu-ii-samiha-meah-smeah-umd-edu-iii-zam-mozumder-zam-umd-edu {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+  position: absolute;
+  left: 82px;
+  top: 239px;
+  width: 681px;
+  height: 584px;
+}
+.reach-out-to-the-course-team-for-support-or-inquiries-professor-contact-details-i-paul-t-shapiro-pshapiro-umd-edu-ta-contact-details-i-abhi-gupta-agupta-09-umd-edu-ii-samiha-meah-smeah-umd-edu-iii-zam-mozumder-zam-umd-edu-span {
+  font-family: "Montserrat-Regular", sans-serif;
+}
+.reach-out-to-the-course-team-for-support-or-inquiries-professor-contact-details-i-paul-t-shapiro-pshapiro-umd-edu-ta-contact-details-i-abhi-gupta-agupta-09-umd-edu-ii-samiha-meah-smeah-umd-edu-iii-zam-mozumder-zam-umd-edu-span2 {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-weight: 700;
+}
+.sahana-nagaraja-university-of-maryland-fall-2025 {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 453px;
+  top: 937px;
+}
